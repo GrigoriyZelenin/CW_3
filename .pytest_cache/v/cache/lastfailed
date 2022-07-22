@@ -1,0 +1,4 @@
+{
+  "bp_api/tests/api_test.py::TestApi::test_all_posta_has_correct_status": true,
+  "bp_api/tests/api_test.py::TestApi::test_single_posta_has_correct_status": true
+}
